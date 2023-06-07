@@ -1,2 +1,2 @@
-# BigMart-Product-Outlet-Sales-Analysis-and-Prediction-Project
+# BigMart-Product-Outlet-Sales-Analysis-and-Prediction-Project - Isha Project 
 The aim of this data science project is to build a predictive model and find out the sales of each product at a particular store.
